@@ -1,4 +1,4 @@
-```markdown
+
 # PCA Exercise Project
 
 ## Overview
@@ -19,7 +19,6 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 - Scikit-learn
 
 ## Project Structure
-```
 
 .
 ├── 03-PCA-Exercise-Project-Solutions.ipynb
@@ -27,7 +26,7 @@ This project demonstrates the application of Principal Component Analysis (PCA) 
 ├── .gitignore
 └── README.md
 
-````
+
 
 ## Installation
 Clone the repository:
